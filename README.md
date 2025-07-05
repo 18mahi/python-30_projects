@@ -1,13 +1,11 @@
 **30 Python Projects – From Beginner Basics to Real-World Builds**
-Welcome to this collection of 30 Python projects, thoughtfully crafted to help you level up your skills—from writing your first loop to building smart, functional applications. Whether you're learning Python, teaching others, or just love experimenting with code, you'll find plenty here to explore and build upon.
+Welcome to this collection of 16 Python projects, thoughtfully crafted to help you level up your skills—from writing your first loop to building smart, functional applications. Whether you're learning Python, teaching others, or just love experimenting with code, you'll find plenty here to explore and build upon.
 
 ✨ What's Inside
 **-  Beginner-Friendly Projects**
 Start simple with foundational concepts like variables, loops, and file handling.
 **- Intermediate Challenges**
 Add more structure with object-oriented design, command-line tools, and working with real data.
-**-Advanced Applications**
-Dive into projects involving machine learning, hardware integration, sensor data, and more.
 Each project comes with:
 - 💡 Clean, well-commented source code
 - 📂 Example inputs, outputs, or usage demos
