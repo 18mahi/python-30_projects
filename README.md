@@ -1,4 +1,4 @@
-**30 Python Projects – From Beginner Basics to Real-World Builds**
+**16 Python Projects – From Beginner Basics to Intermediate**
 Welcome to this collection of 16 Python projects, thoughtfully crafted to help you level up your skills—from writing your first loop to building smart, functional applications. Whether you're learning Python, teaching others, or just love experimenting with code, you'll find plenty here to explore and build upon.
 
 ✨ What's Inside
